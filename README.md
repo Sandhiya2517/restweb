@@ -276,12 +276,12 @@ contact.html
 
 ```
 
-
 ## OUTPUT:
-![alt text](<bharath/Screenshot 2024-12-09 203719.png>)
-![alt text](<bharath/Screenshot 2024-12-09 203902.png>)
-![alt text](<bharath/Screenshot 2024-12-09 203936.png>)
-![alt text](<bharath/Screenshot 2024-12-09 203813.png>)
+![alt text](<Screenshot 2024-12-09 203719.png>)
+![alt text](<Screenshot 2024-12-09 203902.png>)
+![alt text](<Screenshot 2024-12-09 203936.png>)
+![alt text](<Screenshot 2024-12-09 203813.png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
